@@ -1,0 +1,8 @@
+.bsp
+.g8
+.metals
+logs
+project/project
+project/target
+target
+.scalafmt.conf
